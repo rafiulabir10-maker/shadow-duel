@@ -1,0 +1,6 @@
+{
+  "name": "Street Duel",
+  "description": "An action-packed 2-player local retro arcade fighting game with smooth animations, special combos, and an optional smart AI opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
